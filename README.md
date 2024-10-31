@@ -11,5 +11,10 @@ I will be adding the repositories of all my projects to keep track of my progres
 If my code is helpful to you or, on the contrary, you would like to advise me on                      
 how to improve it, do not hesitate to contact me. ☺️
 
+# My Project
 
+# 00 - [libft](https://github.com/nisp3ro/00-libft) ![125/100](https://img.shields.io/badge/125%2F100-green?style=for-the-badge&labelColor=white)
 
+# 01 - [ft_printf](https://github.com/nisp3ro/01-ft_printf) ![100/100](https://img.shields.io/badge/100%2F100-green?style=for-the-badge&labelColor=white)
+
+# 01 - [get_next_line](https://github.com/nisp3ro/01-get_next_line) ![125/100](https://img.shields.io/badge/125%2F100-green?style=for-the-badge&labelColor=white)
