@@ -13,7 +13,7 @@ how to improve it, do not hesitate to contact me. ☺️
 
 # My Project
 
-# 00 - [libft](https://github.com/nisp3ro/00-libft) ![125/100](https://img.shields.io/badge/125%2F100-green?style=for-the-badge&labelColor=white)
+# 00 - [libft](https://github.com/nisp3ro/libft) ![125/100](https://img.shields.io/badge/125%2F100-green?style=for-the-badge&labelColor=white)
 
 # 01 - [ft_printf](https://github.com/nisp3ro/01-ft_printf) ![100/100](https://img.shields.io/badge/100%2F100-green?style=for-the-badge&labelColor=white)
 
