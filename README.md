@@ -1,20 +1,36 @@
-<h1 align="center"> Hi, I'm nisp3ro🍊 </h1>
+<h1 align="center">Hi, I'm mrubal-c</h1>
 
-## I'm currently learning to program in [42 Madrid](https://www.42madrid.com/).
+<p align="center">
+  <a href="https://www.42madrid.com/">
+    <img src="https://img.shields.io/badge/42%20Madrid-Student-blue?style=for-the-badge" alt="42 Madrid Student"/>
+  </a>
+</p>
 
-[![mrubal-c's 42 stats](https://badge.mediaplus.ma/darkgray/mrubal-c?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+---
 
-My Pool was on June 2024 and I started the Cursus on September 2024 and,                
-in these last few months, I'm discovering a world that I'm passionate about.
+I'm currently learning programming at [42 Madrid](https://www.42madrid.com/).  
+I began my journey in June 2024 with my "Pisicine" and officially started the Cursus in September 2024.  
+In these last few months, I've been exploring a world I'm truly passionate about — writing clean, efficient code and building exciting projects.
 
-I will be adding the repositories of all my projects to keep track of my progress.      
-If my code is helpful to you or, on the contrary, you would like to advise me on                      
-how to improve it, do not hesitate to contact me. ☺️
+I document my progress by sharing my projects on GitHub.  
+If you find my code helpful or have any advice for improvement, feel free to reach out.
 
-# My Project
+---
 
-# 00 - [libft](https://github.com/nisp3ro/libft) ![125/100](https://img.shields.io/badge/125%2F100-green?style=for-the-badge&labelColor=white)
+## My Projects
 
-# 01 - [ft_printf](https://github.com/nisp3ro/01-ft_printf) ![100/100](https://img.shields.io/badge/100%2F100-green?style=for-the-badge&labelColor=white)
+- **[libft](https://github.com/nisp3ro/libft)**  
+  *Score: 125/100*  
+  A personal implementation of standard C library functions, enhanced with additional utilities.
 
-# 01 - [get_next_line](https://github.com/nisp3ro/01-get_next_line) ![125/100](https://img.shields.io/badge/125%2F100-green?style=for-the-badge&labelColor=white)
+- **[ft_printf](https://github.com/nisp3ro/01-ft_printf)**  
+  *Score: 100/100*  
+  A custom recreation of the standard printf function with bonus features.
+
+- **[get_next_line](https://github.com/nisp3ro/01-get_next_line)**  
+  *Score: 125/100*  
+  A function to read a file line by line, handling multiple file descriptors in its bonus version.
+
+---
+
+Feel free to explore my repositories and follow my journey as I continue to grow and learn in the world of programming.
