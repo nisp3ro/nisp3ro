@@ -9,7 +9,7 @@
 ---
 
 I'm currently learning programming at [42 Madrid](https://www.42madrid.com/).  
-I began my journey in June 2024 with my "Pisicine" and officially started the Cursus in September 2024.  
+I began my journey in June 2024 with my "Piscine" and officially started the Cursus in September 2024.  
 In these last few months, I've been exploring a world I'm truly passionate about — writing clean, efficient code and building exciting projects.
 
 I document my progress by sharing my projects on GitHub.  
@@ -24,12 +24,16 @@ If you find my code helpful or have any advice for improvement, feel free to rea
   A personal implementation of standard C library functions, enhanced with additional utilities.
 
 - **[ft_printf](https://github.com/nisp3ro/01-ft_printf)**  
-  *Score: 100/100*  
+  *Score: 125/100*  
   A custom recreation of the standard printf function with bonus features.
 
 - **[get_next_line](https://github.com/nisp3ro/01-get_next_line)**  
   *Score: 125/100*  
   A function to read a file line by line, handling multiple file descriptors in its bonus version.
+
+- **[push_swap](https://github.com/nisp3ro/push_swap)**  
+  *Score: 125/100*  
+  A sorting project that challenges you to sort a stack using a limited set of operations.  
 
 ---
 
