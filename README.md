@@ -44,11 +44,19 @@ If you find my code helpful or have any advice for improvement, feel free to rea
 
   - **[push_swap](https://github.com/nisp3ro/push_swap)**  
     *Score: 125/100*  
-    A sorting project that challenges you to sort a stack using a limited set of operations.  
+    A sorting project that challenges you to sort a stack using a limited set of operations.
 
   - **[so_long](https://github.com/nisp3ro/so_long)**  
     *Score: 125/100*  
     A 2D game using MiniLibX where the player collects items and reaches the exit while avoiding obstacles.
+</details>
+
+<details>
+  <summary><strong>Milestone 3</strong></summary>
+
+  - **[minishell](https://github.com/nisp3ro/minishell)**  
+    *Score: 100/100*  
+    A minimal shell that replicates basic bash functionalities.
 </details>
 
 ---
