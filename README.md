@@ -28,7 +28,7 @@ If you find my code helpful or have any advice for improvement, feel free to rea
 </details>
 
 <details>
-  <summary><strong>Milestone 2</strong></summary>
+  <summary><strong>Milestone 1</strong></summary>
 
   - **[ft_printf](https://github.com/nisp3ro/01-ft_printf)**  
     *Score: 125/100*  
@@ -40,7 +40,7 @@ If you find my code helpful or have any advice for improvement, feel free to rea
 </details>
 
 <details>
-  <summary><strong>Milestone 3</strong></summary>
+  <summary><strong>Milestone 2</strong></summary>
 
   - **[push_swap](https://github.com/nisp3ro/push_swap)**  
     *Score: 125/100*  
