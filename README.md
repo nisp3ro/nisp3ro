@@ -58,10 +58,15 @@ If you find my code helpful or have any advice for improvement, feel free to rea
 <details>
   <summary><strong>Milestone 3</strong></summary>
 
+  - **[philosophers](https://github.com/nisp3ro/philosophers)**  
+    *Score: 125/100*  
+    A simulation of the Dining Philosophers Problem that demonstrates thread synchronization and resource sharing using both a mandatory thread-based approach and a bonus process-based approach with semaphores. This project tackles one of the classic concurrency challenges by ensuring that even and odd philosophers alternate for their first meal, reducing resource contention.
+
   - **[minishell](https://github.com/nisp3ro/minishell)**  
     *Score: 100/100*  
     A minimal shell that replicates basic bash functionalities.
 </details>
+
 
 ---
 
