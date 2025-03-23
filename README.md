@@ -67,6 +67,13 @@ If you find my code helpful or have any advice for improvement, feel free to rea
     A minimal shell that replicates basic bash functionalities.
 </details>
 
+<details>
+  <summary><strong>Milestone 4</strong></summary>
+
+  - **[cub3d](https://github.com/nisp3ro/cub3d)**  
+    *Score: 125/100*  
+    A 3D game engine built with raycasting that transforms a 2D map into a 3D environment. It features textured walls, dynamic fog effects, player movement, and a minimap, all powered by MiniLibX.  
+</details>
 
 ---
 
