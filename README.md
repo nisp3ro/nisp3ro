@@ -49,6 +49,10 @@ If you find my code helpful or have any advice for improvement, feel free to rea
   - **[so_long](https://github.com/nisp3ro/so_long)**  
     *Score: 125/100*  
     A 2D game using MiniLibX where the player collects items and reaches the exit while avoiding obstacles.
+
+  - **[pipex](https://github.com/nisp3ro/pipex)**  
+    *Score: 125/100*  
+    A project that simulates shell piping and redirection by connecting commands through pipes and managing file input/output.
 </details>
 
 <details>
