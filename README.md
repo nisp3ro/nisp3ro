@@ -87,7 +87,7 @@ If you find my code helpful or have any advice for improvement, feel free to rea
     A series of projects that explore more advanced C++ topics such as modern language features, concurrency, and design patterns.
     
   - **[ft_irc](https://github.com/nisp3ro/ft_irc)**  
-    *Currently in process.*  
+    *Score: 125/100*  
     A project challenging you to build a fully functional IRC server from scratch.  
 </details>
 
