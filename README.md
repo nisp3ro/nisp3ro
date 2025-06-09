@@ -74,7 +74,7 @@ If you find my code helpful or have any advice for improvement, feel free to rea
     *Score: 100/100*  
     A collection of projects covering the fundamentals of C++ up through advanced topics in Module 04, focusing on practical exercises that build a strong foundation in the language.
   
-  - **[cub3d](https://github.com/nisp3ro/cub3d)**  
+  - **[cub3d](https://github.com/Flingocho/cub3d)**  
     *Score: 125/100*  
     A 3D game engine built with raycasting that transforms a 2D map into a 3D environment, featuring textured walls, dynamic fog effects, player movement, and a minimap.
 </details>
